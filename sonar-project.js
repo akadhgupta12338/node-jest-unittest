@@ -4,7 +4,7 @@ sonarqubeScanner({
   serverUrl: 'http://65.0.170.109:9000/',
        options : {
 	    'sonar.projectDescription': 'This is a Node JS application',
-	    'sonar.projectName': 'Node JS Application - Sample',
+	    'sonar.projectName': 'Node JS Application - Jest',
 	    'sonar.projectKey':'NodeJsMithunTechnologies',
 	    'sonar.login': 'sqa_2cb624d7dcd381f9382f95ddeeb2991683211cda',
 	    //'sonar.login': 'admin',
